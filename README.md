@@ -87,7 +87,7 @@ The one on the below is [Willpat](https://github.com/willpat1213), he will speak
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" alt="Qt" title="Qt"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
-<code><img height="20" src="OctoCharmve/pytorch-logo.png" alt="PyTorch" title="PyTorch"></code>
+<code><img height="20" src="https://github.com/willpat1213/willpat1213/blob/main/pytorch-logo.png" alt="PyTorch" title="PyTorch"></code>
 
 
 **Tools and Environments**
