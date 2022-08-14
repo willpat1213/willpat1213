@@ -5,75 +5,11 @@
 The one on the below is [Willpat](https://github.com/willpat1213), he will speak for me in the virtual world.
 
 - 🔭 I’m currently writing some amateur [open source projects](https://github.com/willpat1213?tab=repositories) by myself. A closed-loop studying open-source repo is public at [https://willpat1213.github.io](https://willpat1213.github.io), and more interesting project can be found at [My GitHub repos](https://github.com/willpat1213?tab=repositories).
-- 🌱 I’m currently studing at China University of Geosciences(CUG). 
 - 🤔 Only two things make me moved. 
   1. To gain more knowledge in <b>Computer Vision</b>.
-  2. To learn more about OCR and make the best benchmark dataset in the field.
-- ❤️ I like eating 🍉, playing 🏀, sleeping in 🛌.
-- 💬 Be free to ask me about anything [here](https://github.com/willpat1213/willpat1213/issues).
+  2. There is further research in <b>scene text recognition</b>.
 
 ---
-<br>
-
-<p align="center">
-  <a href="https://github.com/willpat1213" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willpat1213&langs_count=8&text_color=777" alt="Willpat's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willpat1213&langs_count=8&text_color=777" alt="Willpat's Stats" >
-    -->
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/willpat1213" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=willpat1213&title_color=333&text_color=777" alt="Willpat's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=willpat1213&hide=issues&title_color=333&text_color=777" alt="Willpat's Stats" >
-    -->
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://blog.csdn.net/weixin_46258370/article/details/" target="_blank" alt="CSDN" title="CSDN">
-    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
-  </a>
-  &emsp;
-  <a href="https://www.zhihu.com/people/blleagles" target="_blank" alt="Zhihu" title="Zhihu">
-    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
-  </a>
-  &emsp;
-  <a href="https://space.bilibili.com/357409529" target="_blank" alt="Bilibili" title="Bilibili">
-    <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
-  </a>
-  &emsp;
-  <a href= "https://www.youtube.com/channel/UC08I41mxhG-nZnotTy8tRgA" target="_blank" alt="Instagram" title="Instagram">
-    <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
-  </a>
-  &emsp;
-  <a href="https://www.youtube.com/channel/UC08I41mxhG-nZnotTy8tRgA" target="_blank" alt="YouTube" title="YouTube">
-    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
-  </a>
-  &emsp;
-  <br><br>
-  <strong>Check out my work below!</strong>
-  <br><br>
-  <a href="https://github.com/willpat1213">
-    <img src="https://badges.pufler.dev/visits/willpat1213/willpat1213?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/willpat1213">
-    <img src="https://badges.pufler.dev/years/willpat1213?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/willpat1213?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/willpat1213?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/willpat1213">
-    <img src="https://badges.pufler.dev/commits/monthly/willpat1213?style=flat-square&color=black&logo=github">
-  </a>
-</p>
-
-<h2></h2>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
