@@ -7,7 +7,7 @@ The one on the below is [Layon](https://github.com/willpat1213), he will speak f
 - 🔭 I’m currently writing some amateur [open source projects](https://github.com/willpat1213?tab=repositories) by myself. A closed-loop studying open-source repo is public at [https://willpat1213.github.io](https://willpat1213.github.io), and more interesting project can be found at [My GitHub repos](https://github.com/willpat1213?tab=repositories).
 - 🤔 Only two things make me moved. 
   1. Learn more about <b>Computer Vision</b>.
-  2. More in-depth research in <b>OCR & Remote sensing</b>.
+  2. More in-depth research in <b>OCR & AIGC</b>.
 
 ---
 
